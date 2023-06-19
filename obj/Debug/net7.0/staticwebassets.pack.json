@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\azama\\source\\repos\\SibersTest\\wwwroot\\Uploads\\User\\laoder.png",
+      "PackagePath": "staticwebassets\\Uploads\\User\\laoder.png"
+    },
+    {
+      "Id": "C:\\Users\\azama\\source\\repos\\SibersTest\\wwwroot\\Uploads\\User\\Аманбаева Элиза Сабыржановна.png",
+      "PackagePath": "staticwebassets\\Uploads\\User\\Аманбаева Элиза Сабыржановна.png"
+    },
+    {
+      "Id": "C:\\Users\\azama\\source\\repos\\SibersTest\\wwwroot\\Uploads\\User\\Амангелдиева Айпери Алмазбековна.png",
+      "PackagePath": "staticwebassets\\Uploads\\User\\Амангелдиева Айпери Алмазбековна.png"
+    },
+    {
+      "Id": "C:\\Users\\azama\\source\\repos\\SibersTest\\wwwroot\\Uploads\\User\\Ахматова Айнагуль Токтосуновна.png",
+      "PackagePath": "staticwebassets\\Uploads\\User\\Ахматова Айнагуль Токтосуновна.png"
+    },
+    {
+      "Id": "C:\\Users\\azama\\source\\repos\\SibersTest\\wwwroot\\Uploads\\User\\Добулбеков Чынгыз Анаралиевич.png",
+      "PackagePath": "staticwebassets\\Uploads\\User\\Добулбеков Чынгыз Анаралиевич.png"
+    },
+    {
+      "Id": "C:\\Users\\azama\\source\\repos\\SibersTest\\wwwroot\\Uploads\\User\\Дюшеева Бакыт Кубатбековна.png",
+      "PackagePath": "staticwebassets\\Uploads\\User\\Дюшеева Бакыт Кубатбековна.png"
+    },
+    {
+      "Id": "C:\\Users\\azama\\source\\repos\\SibersTest\\wwwroot\\Uploads\\User\\Иманбекова Ширин Иманбековна.png",
+      "PackagePath": "staticwebassets\\Uploads\\User\\Иманбекова Ширин Иманбековна.png"
+    },
+    {
+      "Id": "C:\\Users\\azama\\source\\repos\\SibersTest\\wwwroot\\Uploads\\User\\Куткеев Ислам Эдуардович.png",
+      "PackagePath": "staticwebassets\\Uploads\\User\\Куткеев Ислам Эдуардович.png"
+    },
+    {
+      "Id": "C:\\Users\\azama\\source\\repos\\SibersTest\\wwwroot\\Uploads\\User\\Кыдырбаева Нургуль Аскатбековна.png",
+      "PackagePath": "staticwebassets\\Uploads\\User\\Кыдырбаева Нургуль Аскатбековна.png"
+    },
+    {
+      "Id": "C:\\Users\\azama\\source\\repos\\SibersTest\\wwwroot\\Uploads\\User\\Мамбеталиева Асель Бекболотовна.png",
+      "PackagePath": "staticwebassets\\Uploads\\User\\Мамбеталиева Асель Бекболотовна.png"
+    },
+    {
+      "Id": "C:\\Users\\azama\\source\\repos\\SibersTest\\wwwroot\\Uploads\\User\\Нурлан кызы Зарина.png",
+      "PackagePath": "staticwebassets\\Uploads\\User\\Нурлан кызы Зарина.png"
+    },
+    {
+      "Id": "C:\\Users\\azama\\source\\repos\\SibersTest\\wwwroot\\Uploads\\User\\Осмоловец Даниил Анатольевич.png",
+      "PackagePath": "staticwebassets\\Uploads\\User\\Осмоловец Даниил Анатольевич.png"
+    },
+    {
+      "Id": "C:\\Users\\azama\\source\\repos\\SibersTest\\wwwroot\\Uploads\\User\\Сеитова Элеонора Асеиновна.png",
+      "PackagePath": "staticwebassets\\Uploads\\User\\Сеитова Элеонора Асеиновна.png"
+    },
+    {
+      "Id": "C:\\Users\\azama\\source\\repos\\SibersTest\\wwwroot\\Uploads\\User\\Текимбаев Орозалы Кемелович.png",
+      "PackagePath": "staticwebassets\\Uploads\\User\\Текимбаев Орозалы Кемелович.png"
+    },
+    {
+      "Id": "C:\\Users\\azama\\source\\repos\\SibersTest\\wwwroot\\Uploads\\User\\Шапранов Артём Вадимович.png",
+      "PackagePath": "staticwebassets\\Uploads\\User\\Шапранов Артём Вадимович.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SibersTest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SibersTest.props",
+      "PackagePath": "build\\SibersTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SibersTest.props",
+      "PackagePath": "buildMultiTargeting\\SibersTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SibersTest.props",
+      "PackagePath": "buildTransitive\\SibersTest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

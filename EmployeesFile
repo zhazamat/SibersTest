@@ -1,0 +1,195 @@
+ "id": 1,
+    "fullName": "????????? ????? ????????????",
+    "positionTitle": "C# Developer",
+    "company": "Sibers",
+    "department": "Development",
+    "directPhone": "+996555555555",
+    "mobile": "+996777333333",
+    "email": "amanbaeva@gmail.com",
+    "linkImg": "/Uploads/User/????????? ????? ????????????.png",
+    "employeeProjects": [],
+    "tasks": [
+      {
+        "id": 1,
+        "name": "Admin panel",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "authorId": 2,
+        "executorId": 1,
+        "projectId": 1,
+        "status": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "fullName": "???????????? ?????? ????????????",
+    "positionTitle": "Project Manager",
+    "company": "Sibers",
+    "department": "IT",
+    "directPhone": "+996555555555",
+    "mobile": "+996777333333",
+    "email": "amanbaeva@gmail.com",
+    "linkImg": "/Uploads/User/???????????? ?????? ????????????.png",
+    "employeeProjects": [
+      {
+        "id": 4,
+        "orderId": 8,
+        "executorId": 2,
+        "projectId": 1,
+        "priority": 9,
+        "startDate": "2023-05-31T00:00:00",
+        "endDate": "2023-06-19T00:00:00"
+      }
+    ],
+    "tasks": []
+  },
+  {
+    "id": 3,
+    "fullName": "?????????? ?????? ???????????",
+    "positionTitle": "C# Developer",
+    "company": "Sibers",
+    "department": "Development",
+    "directPhone": "+996555555555",
+    "mobile": "+996777333333",
+    "email": "amanbaeva@gmail.com",
+    "linkImg": "/Uploads/User/?????????? ?????? ???????????.png",
+    "employeeProjects": [],
+    "tasks": []
+  },
+  {
+    "id": 4,
+    "fullName": "??????? ????? ????????????",
+    "positionTitle": "C# Developer",
+    "company": "Sibers",
+    "department": "Development",
+    "directPhone": "+996555555555",
+    "mobile": "+996777333333",
+    "email": "amanbaeva@gmail.com",
+    "linkImg": "/Uploads/User/??????? ????? ????????????.png",
+    "employeeProjects": [],
+    "tasks": []
+  },
+  {
+    "id": 5,
+    "fullName": "?????????? ????? ???????????",
+    "positionTitle": "Java Developer",
+    "company": "Siroca",
+    "department": "Development",
+    "directPhone": "+996555555555",
+    "mobile": "+996777333333",
+    "email": "amanbaeva@gmail.com",
+    "linkImg": "/Uploads/User/?????????? ????? ???????????.png",
+    "employeeProjects": [],
+    "tasks": []
+  },
+  {
+    "id": 6,
+    "fullName": "?????????? ????? ???????????",
+    "positionTitle": "Data Science",
+    "company": "HBK",
+    "department": "Financial",
+    "directPhone": "+996555555555",
+    "mobile": "+996777333333",
+    "email": "amanbaeva@gmail.com",
+    "linkImg": "/Uploads/User/?????????? ????? ???????????.png",
+    "employeeProjects": [],
+    "tasks": []
+  },
+  {
+    "id": 7,
+    "fullName": "???????? ???????? ????????????",
+    "positionTitle": "Data Science",
+    "company": "FinanSoft",
+    "department": "Financial",
+    "directPhone": "+996555555555",
+    "mobile": "+996777333333",
+    "email": "amanbaeva@gmail.com",
+    "linkImg": "/Uploads/User/???????? ???????? ????????????.png",
+    "employeeProjects": [],
+    "tasks": []
+  },
+  {
+    "id": 8,
+    "fullName": "?????????? ??????? ????????????",
+    "positionTitle": "Manager",
+    "company": "Bimar",
+    "department": "Financial",
+    "directPhone": "+996555555555",
+    "mobile": "+996777333333",
+    "email": "amanbaeva@gmail.com",
+    "linkImg": "/Uploads/User/?????????? ??????? ????????????.png",
+    "employeeProjects": [],
+    "tasks": []
+  },
+  {
+    "id": 9,
+    "fullName": "???????????? ????? ????????????",
+    "positionTitle": "Manager",
+    "company": "Bimar",
+    "department": "Financial",
+    "directPhone": "+996555555555",
+    "mobile": "+996777333333",
+    "email": "amanbaeva@gmail.com",
+    "linkImg": "/Uploads/User/???????????? ????? ????????????.png",
+    "employeeProjects": [],
+    "tasks": []
+  }
+]
+//-----------------------------------------------------------------------------------------------//
+ {
+    "id": 1,
+    "projectName": "Bimar shop",
+    "description": "Generate Lorem Ipsum placeholder text. Select the number of characters, words, sentences or paragraphs, and hit generate!",
+    "employeeProjects": [
+      {
+        "id": 4,
+        "orderId": 8,
+        "executorId": 2,
+        "projectId": 1,
+        "priority": 9,
+        "startDate": "2023-05-31T00:00:00",
+        "endDate": "2023-06-19T00:00:00"
+      }
+    ],
+    "tasks": [
+      {
+        "id": 1,
+        "name": "Admin panel",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "authorId": 2,
+        "executorId": 1,
+        "projectId": 1,
+        "status": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "projectName": "Web Chat",
+    "description": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+    "employeeProjects": [],
+    "tasks": []
+  },
+  {
+    "id": 3,
+    "projectName": "Obis Manas",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "employeeProjects": [],
+    "tasks": []
+  },
+  {
+    "id": 4,
+    "projectName": "Dopple Press",
+    "description": "While all of the featured Wix websites provide an A+ user experience, risograph printing studio Dopple Press really takes the cake. The site’s visually attractive and easy to read, thanks to a clean and spacious layout paired with a bright color scheme. Designer Liv White also worked with Velo to implement creative animations on every page, encouraging visitors to interact with her content ",
+    "employeeProjects": [],
+    "tasks": []
+  }
+  //-------------------------------------------------------------------------------------------------------------------------//
+  {
+    "name": "Admin panel",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "author": "???????????? ?????? ????????????",
+    "executor": "????????? ????? ????????????",
+    "project": "Bimar shop",
+    "status": "InProgress"
+  }
